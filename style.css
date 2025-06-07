@@ -751,7 +751,10 @@ footer {
   }
   .projects-section{
     height: 800px;
-    padding: 1.5rem 1rem;
+    padding: 1rem 1.7rem 1rem 1rem;
+  }
+  .project-card{
+    height: 164px;
   }
   .section-title{
     margin-bottom: 1rem;

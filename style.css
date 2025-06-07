@@ -671,7 +671,7 @@ footer {
   }
 
   .main {
-    height: 850px;
+    height: 1000px;
     width: 100%;;
     margin: 0;
     display: flex;
@@ -681,7 +681,7 @@ footer {
 
   .introduction {
     margin: 25px 0;
-    height: 550px;
+    height: 575px;
     width: 80%;
     display: flex;
     justify-content: center;
@@ -718,7 +718,7 @@ footer {
     text-align: center;
   }
   .about-section{
-    height: 1110px;
+    height: 1000px;
   }
   .about-heading{
     text-align: center;
